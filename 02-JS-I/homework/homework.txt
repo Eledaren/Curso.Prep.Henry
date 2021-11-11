@@ -1,0 +1,11 @@
+    Conceptos básicos de la programación 
+
+Variables: Nos permite almacenar información que se pueden usar más adelante en el código.
+
+Strings: Son cadenas de caracteres, y siempre van entre comillas simples o dobles.
+
+Funciones: Nos permiten dividir el código en partes más pequeñas y reutilizables. Las funciones en javascript tienen un tipo de variable llamada argumentos, que son los parámetros que recibe la función y  una instrucción llamada retorno (return), que devuleve el valor de la función.
+
+Declaraciones 'if': Son condiciones que se evalúan en el código. Si la condición es verdadera, se ejecuta el código dentro de la declaración.
+
+Valores booleanos: Estos valores se pueden usar para decidir si una condición es verdadera (true) o falsa (false).
