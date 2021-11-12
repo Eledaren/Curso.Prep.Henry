@@ -1,0 +1,5 @@
+    Conceptos               
+
+Bucle for: Se utiliza para repetir una acción una determinada cantidad de veces.
+
+Operadores lógicos (&&, ||, !): Se utilizan para combinar condiciones. El operador lógico && indica que las dos o más condiciones deben ser verdaderas para que la condición final sea verdadera. El operador lógico || indica que al menos una de las condiciones debe ser verdadera para que la condición final sea verdadera. El operador lógico ! indica que la condición debe ser falsa para que la condición final sea verdadera.
