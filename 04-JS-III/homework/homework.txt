@@ -1,0 +1,3 @@
+    Concepto    
+
+Array: Arrays o arreglos nos sirven para almacenar varios valores en una sola variable y poder acceder a ellos por medio de un indice (la ventaja que tiene javascript es el poder almacenar distintos tipos de datos). Se almacenan entre corchetes, y cada variable está separada por comas (la ventaja que tiene javascript es el poder almacenar distintos tipos de datos). 
