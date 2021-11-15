@@ -13,7 +13,6 @@ function obtenerMayor(x, y) {
     return x, y;
   }
 }
-obtenerMayor(5, 10);
 
 
 function mayoriaDeEdad(edad) {
@@ -69,21 +68,16 @@ function colors(color) {
   //En caso que el color recibido sea "orange", devuleve --> "This is orange"
   //Caso default: devuelve --> "Color not found"
   //Usar el statement Switch.
-  var color = color.toLowerCase();
 
   switch (color) {
     case "blue":
       return "This is blue";
-      break;
     case "red":
       return "This is red";
-      break;
     case "green":
       return "This is green";
-      break;
     case "orange":
       return "This is orange";
-      break;
     default:
       return "Color not found";
   }
