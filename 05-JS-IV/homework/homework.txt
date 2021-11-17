@@ -1,0 +1,26 @@
+    Conceptos básicos    
+
+Objetos: Es una colección de datos que tienen propiedades y métodos. 
+
+Propiedades: Son como una variable dentro de un objeto y definen las característica que tiene el objeto. Por ejemplo, una persona tiene un nombre, una edad, una dirección, un teléfono, etc.
+
+Métodos: Son como funciones que se ejecutan dentro de un objeto y pueden modificar el valor de una propiedad del objeto.     
+
+Bucle 'for...in': Es un método que recorre todas las propiedades de un objeto.
+
+Notación de puntos vs notación de corchetes: 
+    -Puntos: Es una notación en la que se utiliza un punto para acceder a las propiedades de un objeto. Por ejemplo: 
+        var persona = {
+            nombre: 'Juan',
+            apellido: 'Perez',
+            edad: 30
+        };
+        persona.nombre; //Juan
+    -Corchetes: Es una notación en la que se utilizan corchetes para acceder a los métodos de un objeto. Por ejemplo: 
+        var persona = {
+            nombre: 'Juan',
+            apellido: 'Perez',
+            edad: 30
+            
+        };
+        persona[edad]; //30
